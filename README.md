@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 # 🐍 Python Programming - From Basics to Advanced
 
 Welcome to my **Python Learning Repository**! 🚀
